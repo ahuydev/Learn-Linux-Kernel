@@ -26,7 +26,7 @@ ls /usr/src
 ```
 Kết quả:
 
-> ![alt text](Image\image.png)
+> ![alt text](image.png)
 
 
 
@@ -39,7 +39,7 @@ ls -l /lib/modules/$(uname -r)/build
 
 Kết quả:
 
-> ![alt text](Image\image-2.png)
+> ![alt text](image-2.png)
 
 Giải thích:
 
@@ -65,7 +65,7 @@ uname -r
 
 Kết quả: 
 
-![alt text](Image\image-3.png)
+![alt text](image-3.png)
 
 Giải thích:
 

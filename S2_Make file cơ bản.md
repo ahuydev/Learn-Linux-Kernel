@@ -6,7 +6,7 @@
 
 Trước khi sử dụng Makefile hãy cùng tìm hiểu về cấu trúc của nó:
 
-> ![alt text](Image\Make_file_structure.png)
+> ![alt text](Make_file_structure.png)
 
 Giải thích: 
 > - Target (Mục tiêu): Đây là cái bạn muốn tạo ra, như tệp thực thi hoặc nhiệm vụ cần thực hiện. Ví dụ, nếu bạn đang viết chương trình, target có thể là tệp chạy được như các file `.exe`.
