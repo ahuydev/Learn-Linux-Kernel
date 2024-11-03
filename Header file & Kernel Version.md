@@ -49,7 +49,7 @@ Giải thích:
 >
 >`/build` : Đây là thư mục chứa mã nguồn và kernel headers cần thiết cho việc biên dịch các module hoặc driver cho kernel hiện tại. 
 >
->Trong nhiều hệ thống, `/lib/modules/$(uname -r)/build` thực chất là một liên kết tượng trưng (symlink) trỏ đến thư mục chứa mã nguồn kernel thực tế 
+>Trong nhiều hệ thống, `/lib/modules/$(uname -r)/build` thực chất là một liên kết tượng trưng (symlink) trỏ đến thư mục thực tế chứa kernel headers 
 >(thường là `/usr/src/linux-headers-<kernel-version>` ).
 
 Lưu ý:
